@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(219, 253, 161);
+}
+
+.header{
+  text-align: center;
+}
+
+.header img{
+  border: 4px solid darkolivegreen;
+  border-radius: 40%;
+  width: 10%;
+}
+
+.container{
+  float:left;
+  text-align: center;
+  width: 50%;
+  padding-top: 10%;
+  
+  
+}
