@@ -1,9 +1,10 @@
 body{
-  background-color: rgb(219, 253, 161);
+  background-color: rgb(198, 255, 198);
 }
 
 .header{
   text-align: center;
+  border-bottom: 5px solid darkolivegreen;
 }
 
 .header img{
@@ -12,11 +13,20 @@ body{
   width: 10%;
 }
 
+.header h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container{
   float:left;
   text-align: center;
   width: 50%;
-  padding-top: 10%;
-  
+  padding-top: 5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container a{
+  font-size: 30pt;
   
 }
