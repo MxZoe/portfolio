@@ -19,14 +19,32 @@ body{
 
 .container{
   float:left;
+  border:2px solid darkolivegreen;
   text-align: center;
-  width: 50%;
+  width: 49%;
   padding-top: 5%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
-.container a{
-  font-size: 30pt;
-  
+.container ul{
+  font-size: 15pt;
+  text-align:left;
+}
+
+.container ul li{
+  font-size: 12pt;
+}
+
+.container ol{
+  font-size: 15pt;
+  text-align:left;
+}
+
+.container ol li{
+  font-size: 12pt
+}
+
+.emphasis{
+  font-style: italic;
 }
