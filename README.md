@@ -1,8 +1,6 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### By _**{Zoe Weinstein}**_
-
-#### _{Brief description of application}_
+#### By _**Zoe Weinstein**_
 
 ## Technologies Used
 
@@ -12,7 +10,7 @@
 
 ## Description
 
-_{This is a portfolio website. It contains an about me section and a projects section with links to github projects.}_
+_This is a portfolio website. It contains an about me section and a projects section with links to github projects._
 
 ## Setup/Installation Requirements
 
@@ -23,8 +21,8 @@ _{This is a portfolio website. It contains an about me section and a projects se
 * none
 
 ## License
-_{https://getbootstrap.com/docs/4.0/about/license/}_
+_https://getbootstrap.com/docs/4.0/about/license/_
 
-_{contact me if there are any issues or questions at zweinstein@gmail.com.}_
+_contact me if there are any issues or questions at zweinstein@gmail.com._
 
 Copyright (c) _2021_ _Zoe Weinstein_
