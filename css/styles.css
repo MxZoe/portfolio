@@ -22,6 +22,7 @@ body{
   border:2px solid darkolivegreen;
   text-align: center;
   width: 49%;
+  height: 500px;
   padding-top: 5%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
@@ -47,4 +48,5 @@ body{
 
 .emphasis{
   font-style: italic;
+  font-weight: bold;
 }
