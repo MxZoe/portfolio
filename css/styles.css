@@ -2,50 +2,41 @@ body{
   background-color: rgb(198, 255, 198);
 }
 
-.header{
+.jumbotron{
   text-align: center;
-  border-bottom: 5px solid darkolivegreen;
+  background-color: darkseagreen;
 }
-
-.header img{
-  border: 4px solid darkolivegreen;
-  border-radius: 40%;
+.jumbotron img{
   width: 10%;
+  border: 5px solid darkolivegreen;
+  border-radius: 40%;
 }
 
 .header h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container{
-  float:left;
-  border:2px solid darkolivegreen;
-  text-align: center;
-  width: 49%;
-  height: 500px;
-  padding-top: 5%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+.col-md-6{
+  border: 5px solid darkseagreen;
 }
 
-.container ul{
-  font-size: 15pt;
-  text-align:left;
+.col-md-6 h2{
+  text-align:center;
+  padding: 5%;
+  margin: 2px;
 }
 
-.container ul li{
-  font-size: 12pt;
+a:link{
+  color: rgb(0, 185, 0);
 }
 
-.container ol{
-  font-size: 15pt;
-  text-align:left;
+a:visited{
+  color:darkgreen;
 }
 
-.container ol li{
-  font-size: 12pt
+a:hover{
+  color:darkgreen;
 }
-
 .emphasis{
   font-style: italic;
   font-weight: bold;
