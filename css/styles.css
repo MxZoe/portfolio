@@ -4,7 +4,10 @@ body{
 
 .jumbotron{
   text-align: center;
-  background-color: darkseagreen;
+  padding: 2%;
+  border: 5px solid darkseagreen;
+  background: rgb(198, 255, 198);
+  width: auto;
 }
 .jumbotron img{
   width: 10%;
@@ -18,6 +21,8 @@ body{
 
 .col-md-6{
   border: 5px solid darkseagreen;
+  border-radius: 1%;
+  
 }
 
 .col-md-6 h2{
@@ -30,13 +35,10 @@ a:link{
   color: rgb(0, 185, 0);
 }
 
-a:visited{
+a:visited, a:hover{
   color:darkgreen;
 }
 
-a:hover{
-  color:darkgreen;
-}
 .emphasis{
   font-style: italic;
   font-weight: bold;
