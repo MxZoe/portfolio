@@ -31,6 +31,17 @@ body{
   margin: 2px;
 }
 
+ul{
+  font-size: 15pt;
+}
+
+li{
+  font-size: 12pt;
+}
+
+ol{
+  font-size: 15pt;
+}
 a:link{
   color: rgb(0, 185, 0);
 }
