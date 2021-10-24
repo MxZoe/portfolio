@@ -1,0 +1,50 @@
+body{
+  background-color: rgb(198, 255, 198);
+}
+
+.header{
+  text-align: center;
+  border-bottom: 5px solid darkolivegreen;
+}
+
+.header img{
+  border: 4px solid darkolivegreen;
+  border-radius: 40%;
+  width: 10%;
+}
+
+.header h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+  float:left;
+  border:2px solid darkolivegreen;
+  text-align: center;
+  width: 49%;
+  padding-top: 5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container ul{
+  font-size: 15pt;
+  text-align:left;
+}
+
+.container ul li{
+  font-size: 12pt;
+}
+
+.container ol{
+  font-size: 15pt;
+  text-align:left;
+}
+
+.container ol li{
+  font-size: 12pt
+}
+
+.emphasis{
+  font-style: italic;
+}
