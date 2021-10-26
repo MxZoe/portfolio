@@ -42,6 +42,14 @@ ol{
   font-size: 15pt;
 }
 
+ul, ol{
+  font-size: 15pt;
+}
+
+li{
+  font-size: 12pt;
+}
+
 a:link{
   color: rgb(0, 185, 0);
 }
