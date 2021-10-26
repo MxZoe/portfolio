@@ -21,7 +21,7 @@ This is a portfolio website. It contains an about me section and a projects sect
 * none
 
 ## License
-https://getbootstrap.com/docs/4.0/about/license/
+https://opensource.org/licenses/MIT
 
 _contact me if there are any issues or questions at zweinstein@gmail.com._
 
